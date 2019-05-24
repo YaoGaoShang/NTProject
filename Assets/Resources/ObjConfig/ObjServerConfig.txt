@@ -1,0 +1,122 @@
+﻿{
+  "objServerInfo": [
+    {
+      "name": "服务器1",
+      "manufacturers": "南",
+      "number": "10",
+      "buyTime": "3519.11.25",
+      "price": "304460",
+      "ipAddress": "192.168.1.0"
+    },
+    {
+      "name": "服务器2",
+      "manufacturers": "南天",
+      "number": "10123456",
+      "buyTime": "2055.02.06",
+      "price": "2042668",
+      "ipAddress": "192.148.1.0"
+    },
+    {
+      "name": "服务器3",
+      "manufacturers": "南天软件",
+      "number": "106",
+      "buyTime": "2022.9.14",
+      "price": "53620",
+      "ipAddress": "192.178.1.0"
+    },
+    {
+      "name": "服务器4",
+      "manufacturers": "南天软件",
+      "number": "1789",
+      "buyTime": "2013.9.14",
+      "price": "599921220",
+      "ipAddress": "192.168.1.0"
+    }
+  ],
+  "objInfo": [
+    {
+      "name": "配电柜",
+      "manufacturers": "南天软件",
+      "number": "10123456",
+      "buyTime": "2019.11.25",
+      "price": "305860"
+    },
+    {
+      "name": "机柜",
+      "manufacturers": "南天软件",
+      "number": "10123456",
+      "buyTime": "2019.02.06",
+      "price": "2042538"
+    },
+    {
+      "name": "空调",
+      "manufacturers": "南天软件",
+      "number": "106",
+      "buyTime": "2018.9.14",
+      "price": "53620"
+    },
+    {
+      "name": "存储设备",
+      "manufacturers": "MeKey",
+      "number": "111000",
+      "buyTime": "2019.04.15",
+      "price": "53620"
+    }	,
+    {
+      "name": "插线板",
+      "manufacturers": "MeKey",
+      "number": "111000",
+      "buyTime": "2019.04.15",
+      "price": "53620"
+    },
+    {
+      "name": "UPS02",
+      "manufacturers": "UPS2",
+      "number": "111000",
+      "buyTime": "2019.04.15",
+      "price": "53620"
+    }	,
+    {
+      "name": "UPS03",
+      "manufacturers": "UPS3",
+      "number": "111000",
+      "buyTime": "2019.04.15",
+      "price": "53620"
+    },
+    {
+      "name": "UPS",
+      "manufacturers": "UPS",
+      "number": "111000",
+      "buyTime": "2019.04.15",
+      "price": "53620"
+    },
+    {
+      "name": "无线AP",
+      "manufacturers": "无线AP",
+      "number": "111000",
+      "buyTime": "2019.04.15",
+      "price": "53620"
+    },
+    {
+      "name": "小型机",
+      "manufacturers": "小型机",
+      "number": "111000",
+      "buyTime": "2019.04.18",
+      "price": "53620"
+    },
+    {
+      "name": "负载均衡",
+      "manufacturers": "负载均衡",
+      "number": "111000",
+      "buyTime": "2019.04.18",
+      "price": "53620"
+    },
+    {
+      "name": "交换机",
+      "manufacturers": "交换机",
+      "number": "111000",
+      "buyTime": "2019.04.18",
+      "price": "53620"
+    }
+  ]
+}

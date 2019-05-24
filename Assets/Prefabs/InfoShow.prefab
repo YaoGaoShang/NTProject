@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1456503753803962}
+  m_IsPrefabParent: 1
+--- !u!1 &1456503753803962
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4300553671410588}
+  - component: {fileID: 114308465888618482}
+  - component: {fileID: 114898855849578866}
+  m_Layer: 0
+  m_Name: InfoShow
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4300553671410588
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1456503753803962}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114308465888618482
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1456503753803962}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81e023dd40ba99d4db035ddf333f1b59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  name: {fileID: 0}
+  manufacturers: {fileID: 0}
+  number: {fileID: 0}
+  buyTime: {fileID: 0}
+  price: {fileID: 0}
+  ipAddress: {fileID: 0}
+  info:
+    name: 
+    manufacturers: 
+    number: 
+    buyTime: 
+    price: 
+  serverInfo:
+    name: 
+    manufacturers: 
+    number: 
+    buyTime: 
+    price: 
+    ipAddress: 
+  jsonObj:
+    objInfo: []
+  objConfig: {fileID: 4900000, guid: ebbbb65cb51af4f4fb824feb3130639f, type: 3}
+  infoMessagePanel: {fileID: 0}
+--- !u!114 &114898855849578866
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1456503753803962}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b8a5f541f6c8a744965b671b1ccc137, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objConfig: {fileID: 4900000, guid: bdb761edcb5f171489636b9a40f28c28, type: 3}
+  jsonServerObj:
+    objServerInfo: []
+    objInfo: []
+  info:
+    name: 
+    manufacturers: 
+    number: 
+    buyTime: 
+    price: 
+  serverInfo:
+    name: 
+    manufacturers: 
+    number: 
+    buyTime: 
+    price: 
+    ipAddress: 
+  infoMessagePanel: {fileID: 0}
+  name: {fileID: 0}
+  manufacturers: {fileID: 0}
+  number: {fileID: 0}
+  buyTime: {fileID: 0}
+  price: {fileID: 0}
+  ipAddress: {fileID: 0}
